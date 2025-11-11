@@ -3,7 +3,7 @@ FIAS_RU - Простой и надёжный SDK для работы с ФИАС
 
 """
 
-__version__ = "0.1.0"
+__version__ = "0.1.2"
 __author__ = "Eclips team"
 __email__ = "develop@eclips-team.ru"
 

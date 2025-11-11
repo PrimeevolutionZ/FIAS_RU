@@ -445,17 +445,17 @@ MIT License - см. файл [LICENSE](LICENSE)
 
 - [Официальная документация ФИАС](https://fias.nalog.ru/)
 - [API документация](https://fias.nalog.ru/docs)
-- [GitHub репозиторий](https://github.com/your-repo/FIAS_RU)
+- [GitHub репозиторий](https://github.com/PrimeevolutionZ/FIAS_RU)
 - [PyPI пакет](https://pypi.org/project/FIAS-RU/)
-
+- [Примеры использования](https://github.com/PrimeevolutionZ/FIAS_RU/tree/master/examples)
 ---
 
 ## ⭐ Поддержка
 
 Если вам понравилась библиотека, поставьте звезду на GitHub!
 
-Нашли баг? [Создайте issue](https://github.com/your-repo/FIAS_RU/issues)
+Нашли баг? [Создайте issue](https://github.com/PrimeevolutionZ/FIAS_RU/issues)
 
 ---
 
-**Сделано с ❤️ командой Eclips**
+**Сделано с ❤️ командой [Eclips](https://github.com/PrimeevolutionZ/FIAS_RU)**
