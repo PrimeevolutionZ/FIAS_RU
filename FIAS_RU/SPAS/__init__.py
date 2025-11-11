@@ -1,8 +1,5 @@
 ﻿"""
 FIAS_RU/FIAS_RU/SPAS/__init__.py
-
-Модуль для конвертации и интеграции адресов (SPAS API)
-Экспортирует клиент SPAS и связанные модели
 """
 
 from .client import SPAS

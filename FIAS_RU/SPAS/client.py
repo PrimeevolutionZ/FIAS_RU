@@ -1,11 +1,5 @@
 ﻿"""
-FIAS_RU/FIAS_RU/SPAS/client.py (V2 - Максимально простой)
-
-Ключевые улучшения:
-1. Автоопределение URL и токена из env
-2. Умный поиск (автоопределение типа запроса)
-3. Цепочные методы для фильтрации
-4. Rich-объекты с удобными свойствами
+FIAS_RU/FIAS_RU/SPAS/client.py
 """
 
 from typing import List, Optional, Union

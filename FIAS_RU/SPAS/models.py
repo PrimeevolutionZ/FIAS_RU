@@ -1,11 +1,5 @@
 ﻿"""
-FIAS_RU/FIAS_RU/SPAS/models.py (V2 - Rich объекты)
-
-Улучшения:
-1. Удобные свойства для быстрого доступа
-2. Методы to_dict(), to_json()
-3. Красивый __repr__
-4. Вычисляемые поля
+FIAS_RU/FIAS_RU/SPAS/models.py (V2
 """
 
 from typing import Optional, Dict, Any

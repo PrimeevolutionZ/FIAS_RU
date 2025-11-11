@@ -1,7 +1,6 @@
 ﻿"""
 FIAS_RU/FIAS_RU/SPAS/base.py
 
-Улучшенный базовый класс с rate limiting и connection pooling
 """
 
 from typing import Optional
