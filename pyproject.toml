@@ -3,8 +3,8 @@ requires = ["setuptools>=65.0", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "FIAS_RU"
-version = "0.2.0"
+name = "FIAS-RU"
+version = "0.1.0"
 description = "Простой и надёжный SDK для работы с ФИАС API"
 readme = "README.md"
 requires-python = ">=3.8"
@@ -47,11 +47,10 @@ dev = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/eclips-team/FIAS_RU"
-Documentation = "https://github.com/eclips-team/FIAS_RU#readme"
-Repository = "https://github.com/eclips-team/FIAS_RU"
-Issues = "https://github.com/eclips-team/FIAS_RU/issues"
-Changelog = "https://github.com/eclips-team/FIAS_RU/releases"
+Homepage = "https://github.com/PrimeevolutionZ/FIAS_RU"
+Documentation = "https://github.com/PrimeevolutionZ/FIAS_RU#readme"
+Repository = "https://github.com/PrimeevolutionZ/FIAS_RU"
+Issues = "https://github.com/PrimeevolutionZ/FIAS_RU/issues"
 
 [tool.setuptools.packages.find]
 where = ["."]
